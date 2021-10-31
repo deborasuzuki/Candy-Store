@@ -23,4 +23,4 @@ HTML and CSS.
 
 See in:<a href="https://ds-candystore.netlify.app/"> Candy Store</a>
 
-![project_view](https://github.com/deborasuzuki/Sunnyside-Agency/blob/main/Project%20View.png)
+![project_view](https://github.com/deborasuzuki/Candy-Store/blob/master/Project%20View.png)
